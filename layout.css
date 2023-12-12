@@ -16,6 +16,12 @@
   clear: both;
 }
 
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
+
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
